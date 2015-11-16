@@ -33,7 +33,7 @@ Patches
 Please submit any patches against the thmsab layer to the
 the maintainer:
 
-Maintainer: Łukasz Czapliński <lczaplinski@o2.pl>
+Maintainer: Guy Sagnes <guy.sagnes@mni.thm.de>
 
 
 Table of Contents
